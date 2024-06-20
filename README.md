@@ -46,6 +46,13 @@ To reproduce the code, three options are available:
 
 Regardless of the platform you choose, try to run the single cell in  `test_setup`. If all the necessary libraries are there, you will not get any error message.
 
+### Input Data
+The input data required for this project are too large to be directly included in this repository. Therefore, the data are saved in a separate folder on Google Drive . You can access the data using the following link: 
+https://drive.google.com/drive/folders/104SfmJzuUYvtJu7whrJ_2CdiyCmhpH0t?usp=drive_link
+
+Please download the data from the provided link and place it in "input" folder.
+
+
 ### Input Variables
 The input provides several variables to classify the events. Since each event has multiple leptons, they were ordered in descending order based on their transverse momentum. Thus, lepton 1 has the highest transverse momentum, lepton 2 the second highest, and so on. <br>
 Most of the given variables can be called low-level, because they represent event or object properties, which can be derived directly from the reconstruction in the detector. In contrast to this are high-level variables, which result from the combination of several low-level variables. In the given dataset the only high-level variables are invariant masses of multiple particles:<br>
