@@ -12,7 +12,7 @@ To reproduce the code, three options are available:
 
    1. Clone the repository to your local machine:
         ```
-        git clone **Mettemoce il link**
+        git clone https://github.com/giulupi/Machine-Learning-for-Higgs
         ```
 
    2. Navigate to the repository directory:
